@@ -1,0 +1,24 @@
+{
+  "name": "sony-android-tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozefdransfield/sony-android-tv.git"
+  },
+  "author": "Jozef Dransfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozefdransfield/sony-android-tv/issues"
+  },
+  "homepage": "https://github.com/jozefdransfield/sony-android-tv#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}

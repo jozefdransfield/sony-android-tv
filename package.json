@@ -1,10 +1,10 @@
 {
   "name": "sony-android-tv",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Sony Android TV Remote Control API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,10 @@
     "lodash": "^4.17.10",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "mock-http-server": "^1.0.0"
   }
 }

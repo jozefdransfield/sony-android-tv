@@ -3,7 +3,6 @@ const _ = require('lodash');
 
 async function remoteFor(address, psk) {
     const commandList = await getCommandList(address);
-    console.log(commandList);
     return new Remote(address, psk, commandList);
 }
 

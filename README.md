@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/sony-android-tv.svg)](https://badge.fury.io/js/sony-audio) [![CircleCI](https://circleci.com/gh/jozefdransfield/sony-android-tv.svg?style=svg)](https://circleci.com/gh/jozefdransfield/sony-android-tv) 
+[![npm version](https://badge.fury.io/js/sony-android-tv.svg)](https://badge.fury.io/js/sony-android-tv) [![CircleCI](https://circleci.com/gh/jozefdransfield/sony-android-tv.svg?style=svg)](https://circleci.com/gh/jozefdransfield/sony-android-tv) 
 
 # Sony-Android-TV API
 
